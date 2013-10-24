@@ -12,7 +12,7 @@
     <TextView
             android:layout_width="wrap_content"
             android:layout_height="72dp"
-            android:text="This TEXT is MINE"
+            android:text="version 3 check"
             android:layout_gravity="center"/>
 </LinearLayout>
 
